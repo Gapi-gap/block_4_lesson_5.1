@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{919E853D-AB79-4E15-956F-42B1DBE04D60}|lesson_5.1.vcxproj|D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{919E853D-AB79-4E15-956F-42B1DBE04D60}|lesson_5.1.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{919E853D-AB79-4E15-956F-42B1DBE04D60}|lesson_5.1.vcxproj|D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{919E853D-AB79-4E15-956F-42B1DBE04D60}|lesson_5.1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-17T18:08:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\4_\u041C\u043E\u0434\u0443\u043B\u044C\\lesson_5.1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-17T17:48:43.722Z",
               "EditorCaption": ""
